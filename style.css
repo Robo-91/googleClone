@@ -1,10 +1,41 @@
-h1 {
-    text-align: center;
-    font-size: 3em;
+
+
+li {
+    list-style-type: none;
+    display: inline;
+    cursor: pointer;
+}
+
+li:hover {
+    text-decoration: underline;
 }
 
 @media (min-width: 800px) {
-    h1 {
-        font-size: 4em;
-    }
+
+}
+
+header {
+    display: flex;
+}
+
+section {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+.searchbar {
+    display: block;
+    margin: auto;
+}
+
+.google-search {
+    margin-top: 10px;
+}
+
+footer {
+    display: flex;
 }
