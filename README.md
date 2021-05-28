@@ -21,22 +21,17 @@ To-do list:
 
 ## Getting Started
    
-(include git clone command)
-(include all environment setup steps)
+Ensure that you have a Text Editor installed (Visual Studio Code or Sublime should work fine)
 
-> Be sure to include BOTH Windows and Unix command  
-> Be sure to mention if the commands only work on a specific platform (eg. AWS, GCP)
+Using the terminal, navigate to the directory that you want to clone the repository in, and enter the following command:
 
-- All the `code` required to get started
-- Images of what it should look like
+> git clone https://github.com/Robo-91/googleClone.git 
+
+*Ensure you have git bash installed if using Windows
 
 ## Usage
 
-> Here, you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
-
-## Contributors
-
-> Here list the people who have contributed to this project. (ignore this section, if its a solo project)
+> Live Demo Page not yet posted
 
 ## License
 
