@@ -13,12 +13,11 @@ of HTML and CSS.
 ## Features
 
 List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
+* Use of features in CSS to place each of the elements in appropriate places on the page.
 
 To-do list:
 * Add a link to view the live demo.
+* Make the app responsive.
 
 ## Getting Started
    
